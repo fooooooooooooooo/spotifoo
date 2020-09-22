@@ -11,7 +11,7 @@ Spicetify installation instructions are [here](https://github.com/khanhas/spicet
 
 ## Settings
 
-Toggle for switching between Spotify Premium and Spicetify method
+Toggle for switching between Spotify Premium and Spicetify method (Doesn't work yet)
 
 ![Settings Preview](https://i.imgur.com/sJDYJdV.png)
 
